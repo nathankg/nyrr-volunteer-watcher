@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-07-15T20:27:32+00:00",
- "discovery_failures": 728,
+ "checked_at": "2026-07-15T20:52:38+00:00",
+ "discovery_failures": 729,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -650,7 +650,7 @@
     },
     "START Green Team": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "NEA"
     },
     "START Hospitality": {
      "nine_one": true,
