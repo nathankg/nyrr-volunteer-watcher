@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-07-30T14:52:42+00:00",
- "discovery_failures": 1207,
+ "checked_at": "2026-07-30T15:43:40+00:00",
+ "discovery_failures": 1208,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -561,7 +561,7 @@
      "nine_one": false,
      "status": "NEA"
     },
-    "Podiatrist": {
+    "Physician - Attending &amp; Fellow (Podiatrist, Ortho, Sports Med)": {
      "nine_one": false,
      "status": "MED"
     },
