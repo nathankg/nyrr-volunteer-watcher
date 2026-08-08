@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-08-08T10:29:39+00:00",
- "discovery_failures": 1490,
+ "checked_at": "2026-08-08T10:49:30+00:00",
+ "discovery_failures": 1491,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -425,7 +425,7 @@
     },
     "Fluid Station": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "NYRR Ambassador": {
      "nine_one": true,
@@ -433,11 +433,11 @@
     },
     "Post-Race Amenities": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "Pre-Race Water &amp; Cup Zero Support": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "Start and Finish": {
      "nine_one": true,
