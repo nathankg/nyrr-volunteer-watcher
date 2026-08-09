@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-08-09T19:46:00+00:00",
- "discovery_failures": 1577,
+ "checked_at": "2026-08-09T20:01:55+00:00",
+ "discovery_failures": 1578,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -604,7 +604,7 @@
     },
     "FINISH Marathon Ambassador": {
      "nine_one": false,
-     "status": "SOL"
+     "status": "NEA"
     },
     "FINISH Poncho Distribution": {
      "nine_one": false,
