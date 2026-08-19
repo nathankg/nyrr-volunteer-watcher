@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-08-19T15:17:14+00:00",
- "discovery_failures": 2142,
+ "checked_at": "2026-08-19T16:13:08+00:00",
+ "discovery_failures": 2143,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -242,6 +242,10 @@
     "Volunteer Leaders and Leaders in Training (NO +1)": {
      "nine_one": false,
      "status": "SOL"
+    },
+    "Youth Event Assistant": {
+     "nine_one": true,
+     "status": "AVL"
     }
    }
   },
@@ -581,6 +585,10 @@
   "https://events.nyrr.org/tcs-new-york-city-marathon-post-finish-volunteers": {
    "name": "TCS New York City Marathon - Post Finish Volunteers",
    "roles": {
+    "FINISH Athletes with Disabilities Support": {
+     "nine_one": false,
+     "status": "AVL"
+    },
     "FINISH Bag Check": {
      "nine_one": false,
      "status": "SOL"
@@ -588,6 +596,10 @@
     "FINISH Central Park Runner Exit Marshal": {
      "nine_one": false,
      "status": "SOL"
+    },
+    "FINISH Early Exit Amenities Ambassador": {
+     "nine_one": false,
+     "status": "AVL"
     },
     "FINISH Green Team": {
      "nine_one": false,
@@ -605,9 +617,13 @@
      "nine_one": false,
      "status": "NEA"
     },
+    "FINISH Ticketing Ambassador": {
+     "nine_one": false,
+     "status": "AVL"
+    },
     "FINISH VIP Hospitality": {
      "nine_one": false,
-     "status": "SOL"
+     "status": "NEA"
     },
     "FINISH Walk-Off Marshal": {
      "nine_one": false,
