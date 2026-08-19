@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-08-19T16:13:08+00:00",
- "discovery_failures": 2143,
+ "checked_at": "2026-08-19T17:04:04+00:00",
+ "discovery_failures": 2144,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -245,7 +245,7 @@
     },
     "Youth Event Assistant": {
      "nine_one": true,
-     "status": "AVL"
+     "status": "SOL"
     }
    }
   },
