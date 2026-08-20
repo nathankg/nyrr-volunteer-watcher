@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-08-20T13:50:09+00:00",
- "discovery_failures": 2204,
+ "checked_at": "2026-08-20T14:17:46+00:00",
+ "discovery_failures": 2205,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -619,7 +619,7 @@
     },
     "FINISH Marathon Ambassador": {
      "nine_one": false,
-     "status": "SOL"
+     "status": "NEA"
     },
     "FINISH Poncho Distribution": {
      "nine_one": false,
@@ -660,7 +660,7 @@
     },
     "START Corral Marshal - Orange": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "NEA"
     },
     "START Green Team": {
      "nine_one": true,
