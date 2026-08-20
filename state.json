@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-08-20T19:28:43+00:00",
- "discovery_failures": 2220,
+ "checked_at": "2026-08-20T19:45:23+00:00",
+ "discovery_failures": 2221,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -603,7 +603,7 @@
     },
     "FINISH Bag Check": {
      "nine_one": false,
-     "status": "SOL"
+     "status": "NEA"
     },
     "FINISH Central Park Runner Exit Marshal": {
      "nine_one": false,
@@ -656,7 +656,7 @@
     },
     "START Clothing Collection": {
      "nine_one": true,
-     "status": "NEA"
+     "status": "SOL"
     },
     "START Corral Marshal - Blue": {
      "nine_one": true,
@@ -676,7 +676,7 @@
     },
     "START VIP Hospitality": {
      "nine_one": true,
-     "status": "NEA"
+     "status": "SOL"
     },
     "START Village Amenities - Blue": {
      "nine_one": true,
