@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-09-07T12:48:13+00:00",
- "discovery_failures": 3382,
+ "checked_at": "2026-09-07T13:19:10+00:00",
+ "discovery_failures": 3383,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -553,7 +553,7 @@
     },
     "Queensboro Bridge Course Marshal Volunteer": {
      "nine_one": false,
-     "status": "NEA"
+     "status": "AVL"
     }
    }
   },
