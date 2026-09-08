@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-09-08T18:21:32+00:00",
- "discovery_failures": 3475,
+ "checked_at": "2026-09-08T18:43:26+00:00",
+ "discovery_failures": 3476,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -583,14 +583,6 @@
     "Physician - Attending &amp; Fellow (Cardio, EM, Trauma, GP, etc.)": {
      "nine_one": false,
      "status": "SOL"
-    },
-    "Physician Assistant": {
-     "nine_one": false,
-     "status": "MED"
-    },
-    "Resident": {
-     "nine_one": false,
-     "status": "MED"
     }
    }
   },
@@ -652,7 +644,7 @@
     },
     "START Corral Marshal - Orange": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "NEA"
     },
     "START Corral Marshal - Pink": {
      "nine_one": true,
