@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-09-08T16:19:45+00:00",
- "discovery_failures": 3468,
+ "checked_at": "2026-09-08T16:41:22+00:00",
+ "discovery_failures": 3469,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -233,7 +233,7 @@
     },
     "Start Area Bag Check": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "NEA"
     },
     "Start Area Jump Team": {
      "nine_one": true,
@@ -603,7 +603,7 @@
     },
     "FINISH Bag Check": {
      "nine_one": false,
-     "status": "NEA"
+     "status": "SOL"
     },
     "FINISH Central Park Runner Exit Marshal": {
      "nine_one": false,
@@ -615,7 +615,7 @@
     },
     "FINISH Green Team": {
      "nine_one": false,
-     "status": "NEA"
+     "status": "SOL"
     },
     "FINISH Jump Team": {
      "nine_one": false,
@@ -623,7 +623,7 @@
     },
     "FINISH Marathon Ambassador": {
      "nine_one": false,
-     "status": "NEA"
+     "status": "SOL"
     },
     "FINISH Ticketing Ambassador": {
      "nine_one": false,
@@ -635,7 +635,7 @@
     },
     "FINISH Walk-Off Marshal": {
      "nine_one": false,
-     "status": "NEA"
+     "status": "SOL"
     }
    }
   },
@@ -742,7 +742,7 @@
     },
     "Fluid Station North": {
      "nine_one": true,
-     "status": "NEA"
+     "status": "SOL"
     },
     "Fluid Station South": {
      "nine_one": true,
@@ -750,7 +750,7 @@
     },
     "NYRR Ambassador": {
      "nine_one": true,
-     "status": "NEA"
+     "status": "SOL"
     },
     "Post-Race Amenities": {
      "nine_one": true,
