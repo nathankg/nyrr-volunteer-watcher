@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-09-08T14:51:40+00:00",
- "discovery_failures": 3464,
+ "checked_at": "2026-09-08T15:18:41+00:00",
+ "discovery_failures": 3465,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -725,10 +725,6 @@
    "name": "TCS New York City Marathon Training Series 18M - Volunteers",
    "roles": {
     "Bag Check": {
-     "nine_one": true,
-     "status": "SOL"
-    },
-    "Course Marshal North": {
      "nine_one": true,
      "status": "SOL"
     },
