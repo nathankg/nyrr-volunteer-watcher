@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-09-09T01:59:49+00:00",
- "discovery_failures": 3501,
+ "checked_at": "2026-09-09T02:30:25+00:00",
+ "discovery_failures": 3502,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -599,7 +599,7 @@
     },
     "FINISH Green Team": {
      "nine_one": false,
-     "status": "NEA"
+     "status": "SOL"
     },
     "FINISH Jump Team": {
      "nine_one": false,
@@ -664,7 +664,7 @@
     },
     "START Village Amenities - Orange": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "NEA"
     },
     "START Village Amenities - Silver Charity": {
      "nine_one": true,
