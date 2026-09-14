@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-09-14T11:51:35+00:00",
- "discovery_failures": 3916,
+ "checked_at": "2026-09-14T12:26:18+00:00",
+ "discovery_failures": 3917,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -282,7 +282,7 @@
     },
     "Medals Distribution": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "NEA"
     },
     "Medical Volunteers - Must be licensed in NYS": {
      "nine_one": true,
@@ -603,7 +603,7 @@
     },
     "FINISH Green Team": {
      "nine_one": false,
-     "status": "NEA"
+     "status": "SOL"
     },
     "FINISH Jump Team": {
      "nine_one": false,
