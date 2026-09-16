@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-09-16T14:51:20+00:00",
- "discovery_failures": 4073,
+ "checked_at": "2026-09-16T15:16:53+00:00",
+ "discovery_failures": 4074,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -284,10 +284,6 @@
      "nine_one": true,
      "status": "SOL"
     },
-    "Medical Volunteers - Must be licensed in NYS": {
-     "nine_one": true,
-     "status": "MED"
-    },
     "NYRR Ambassador": {
      "nine_one": true,
      "status": "SOL"
@@ -548,7 +544,7 @@
     },
     "START Green Team": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "NEA"
     },
     "START Jump Team": {
      "nine_one": false,
@@ -568,7 +564,7 @@
     },
     "START Village Amenities - Orange": {
      "nine_one": true,
-     "status": "NEA"
+     "status": "SOL"
     },
     "START Village Amenities - Silver Charity": {
      "nine_one": true,
@@ -638,7 +634,7 @@
     },
     "Fluid Station South": {
      "nine_one": true,
-     "status": "NEA"
+     "status": "SOL"
     },
     "NYRR Ambassador": {
      "nine_one": true,
