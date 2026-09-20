@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-09-20T10:50:06+00:00",
- "discovery_failures": 134,
+ "checked_at": "2026-09-20T11:12:41+00:00",
+ "discovery_failures": 135,
  "events": {
   "https://events.nyrr.org/435525f3d6d28f467f7e": {
    "name": "New Balance Bronx 10 Mile",
@@ -20,11 +20,11 @@
    "roles": {
     "Eligible for 9+1 Credit \u2013 TCS New York City Marathon Training Series 18M": {
      "nine_one": false,
-     "status": "SOL"
+     "status": "END"
     },
     "NOT ELIGIBLE for 9+1 Credit \u2013 TCS New York City Marathon Training Series 18M": {
      "nine_one": false,
-     "status": "SOL"
+     "status": "END"
     }
    }
   },
