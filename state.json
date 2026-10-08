@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-10-08T19:45:16+00:00",
- "discovery_failures": 1323,
+ "checked_at": "2026-10-08T19:55:49+00:00",
+ "discovery_failures": 1324,
  "events": {
   "https://events.nyrr.org/435525f3d6d28f467f7e": {
    "name": "New Balance Bronx 10 Mile",
@@ -29,13 +29,8 @@
    }
   },
   "https://events.nyrr.org/cb17aa431224ef58ce77": {
-   "name": "2027 9+1 Pass Program",
-   "roles": {
-    "APPLICATION: 9+1 Pass Program": {
-     "nine_one": false,
-     "status": "MEM"
-    }
-   }
+   "name": "Unknown event",
+   "roles": {}
   }
  }
 }
