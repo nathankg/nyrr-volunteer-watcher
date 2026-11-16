@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-11-16T09:15:35+00:00",
- "discovery_failures": 4401,
+ "checked_at": "2026-11-16T09:36:50+00:00",
+ "discovery_failures": 4402,
  "events": {
   "https://events.nyrr.org/435525f3d6d28f467f7e": {
    "name": "Unknown event",
